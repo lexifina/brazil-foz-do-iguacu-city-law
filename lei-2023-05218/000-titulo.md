@@ -1,0 +1,3 @@
+# LEI No 5.218, DE 15 DE MARÇO DE 2023.
+Revoga as Leis nos 2.876, de 23 de dezembro de 2003, que Autoriza o Chefe do Poder Executivo Municipal a outorgar Permissão de Uso de parte de imóvel de propriedade do Município, conforme especifica; 4.005, de 24 de julho de 2012, que Autoriza o Chefe do Poder Executivo Municipal a outorgar Permissão de Uso de imóveis de propriedade do Município de Foz do Iguaçu ao Grupo Escoteiro Pedra que Canta e 4.674, de 19 de novembro de 2018, que Autoriza o Chefe do Poder Executivo Municipal a outorgar Cessão de Uso de imóvel de propriedade do Município de Foz do Iguaçu à Companhia de Saneamento do Paraná - SANEPAR.
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
