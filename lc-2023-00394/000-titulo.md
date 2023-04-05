@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR No 394, DE 3 DE ABRIL DE 2023.
+Altera dispositivo da Lei Complementar no 229, de 23 de dezembro de 2014, que "Institui o Tratamento Diferenciado e Favorecido a ser dispensado às Microempresas, às Empresas de Pequeno Porte e aos Microempreendedores Individuais, o Comitê Gestor de Desenvolvimento Municipal e a Casa do Empreendedor, no âmbito do Município, em conformidade com as normas gerais previstas no Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, instituído pela Lei Complementar Federal no 123 de 14 de dezembro de 2006 e alterações".
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei Complementar:
