@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR No 425, DE 12 DE MARÇO DE 2024.
+Altera e acresce dispositivos na Lei Complementar no 396, de 9 de maio de 2023, que: "Dispõe sobre a definição e classificação das verbas que compõe o Sistema Remuneratório dos Servidores Públicos, detentores de cargos efetivos, estabelecidas nas leis específicas da Administração Direta e Indireta do Município de Foz do Iguaçu - PR, autoriza revisão de benefícios e revoga a Lei Complementar no 364, de 21 de dezembro de 2021.
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei Complementar:
