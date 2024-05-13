@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 428, DE 10 DE MAIO DE 2024.
+Altera a Lei Complementar nº 7, de 18 de novembro de 1991, que "Dispõe sobre a utilização dos logradouros públicos no município de Foz do Iguaçu, o bem-estar, a ordem, os costumes e a segurança pública, estabelece normas de proteção e conservação do meio ambiente, observadas as normas federais e estaduais relativas à matéria, e revoga a Lei nº 1780/80".
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou, o Prefeito Municipal, nos termos do § 1º do artigo 49 da Lei Orgânica do Município sancionou, e eu, Presidente, nos termos do § 8º do mesmo artigo, promulgo a seguinte Lei:
