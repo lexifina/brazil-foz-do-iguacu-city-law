@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 443, DE 7 DE ABRIL DE 2025.
+Revoga dispositivo da Lei Complementar nº 7, de 18 de novembro de 1991, que "Dispõe sobre a utilização dos logradouros públicos no município de Foz do Iguaçu, o bem-estar, a ordem, os costumes e a segurança pública, estabelece normas de proteção e conservação do meio ambiente, observadas as normas federais e estaduais relativas às matérias, e revoga a Lei nº 1.780/80".
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou, e eu Presidente, promulgo, nos termos dos §§ 1º e 8º do artigo 49 da Lei Orgânica do Município, a seguinte Lei Complementar:
