@@ -1,0 +1,9 @@
+{
+  "path": "br-pr-foz-do-iguacu",
+  "code": "BR-PR-FOZ-DO-IGUACU",
+  "name": "Foz do Iguaçu (city)",
+  "level": "municipality",
+  "parent": "br-pr",
+  "repo": "https://github.com/lexifina/brazil-foz-do-iguacu-city-law",
+  "build": "built: the law of Foz do Iguaçu from the Câmara Municipal's SAPL"
+}

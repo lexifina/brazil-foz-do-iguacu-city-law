@@ -1,0 +1,385 @@
+{
+ "country": "BR-PR-FOZ-DO-IGUACU",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Foz-do-Iguaçu",
+   "title": "Lei Orgânica do Município de Foz do Iguaçu",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2306",
+   "versions": [
+    {
+     "from": "1990-04-06",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/0,1990-04-06,1991-09-17:5RglC6ZdMN_imwuwqCmId4Kl0-g/",
+     "sha256": "de3121a2b34b1ec73e7f58ae27fa0f56ae44e18e60a39c75b8653d34e0772e9f"
+    },
+    {
+     "from": "1991-09-18",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2395,1991-09-18,1991-12-16:sNSb-kL22gT3sJxHNRWLxMVnOOk/",
+     "sha256": "7225a18088b89dafabe3141c8824edfffa3f95cc2d0711894ba1f46e3574a302"
+    },
+    {
+     "from": "1991-12-17",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2399,1991-12-17,1992-06-14:bvqF0CT-4m4vlnKwqfCPZ_0gHqk/",
+     "sha256": "856c4b230bc5e26f6c7ac61013b4b894b62c8ed7a25b685e808ce77d26eafa1e"
+    },
+    {
+     "from": "1992-06-15",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2453,1992-06-15,1993-01-07:SaYZge6nJqCsGvY-jwmS2owo3DU/",
+     "sha256": "502c3154366f686e31282dce69e829af27ba1aad662a06fd846dcda0e36f30d5"
+    },
+    {
+     "from": "1993-01-08",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2455,1993-01-08,1993-05-06:ogIXFq5bcswCrb8HA2ynp_kTUU4/",
+     "sha256": "6a3966caffeac01295b4e5c62692e254d62634b9d088ac31ee63c335790ef27c"
+    },
+    {
+     "from": "1993-05-07",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2456,1993-05-07,1993-08-05:bjx0W2TMDoxYFqcTogplcNPtVfU/",
+     "sha256": "bf6f9a5e1b49bfc31304fe167c5d67b8c0d9fa911997f68832e3f23d83a557fd"
+    },
+    {
+     "from": "1993-08-06",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2457,1993-08-06,1994-12-11:dYKMlB4snJBP5_3ZwZoHWEbOv94/",
+     "sha256": "f5790d21ff01728dc834b158f0ffd66121bd2cd030eb5e05d173547695bd10cd"
+    },
+    {
+     "from": "1994-12-12",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2458,1994-12-12,1995-12-10:RijuNkpxXjxZRCIMv33AoxNcdEU/",
+     "sha256": "b0a2bb7f53589e48eae7d200cdd3a5790d1c3355202e9ee7eeb1e0ea25a7577a"
+    },
+    {
+     "from": "1995-12-11",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2459,1995-12-11,1996-06-08:KSpwJ5vU7zB6GlUuJ90L_Yxi-YY/",
+     "sha256": "bd07913a9ba219bceecfd98c441dd52097ac4bfaef3ffe2759ca39b4cdc5f09e"
+    },
+    {
+     "from": "1996-06-09",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2460,1996-06-09,1996-12-01:zDXigpAmT2FTD184GAqggZ5B3a8/",
+     "sha256": "5ce84e79b7ead8cbed4b06efa7e2aedaf9404bd162decf6bfa6f20bd481aceda"
+    },
+    {
+     "from": "1996-12-02",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2462,1996-12-02,1996-12-05:LLRqcVa3e5f3LlrI7MXW1nAYkD8/",
+     "sha256": "de8d32687f85d9da097a64dc2b1037c5e7dae503eb8c9c908f68d324d86c52b5"
+    },
+    {
+     "from": "1996-12-06",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2463,1996-12-06,1997-05-15:yQ3eZg-7K018WuVsHvhSErX-vRY/",
+     "sha256": "9c423d3b8b235825bba3a70f53542a7f3f08defe3c9bf828664faf676de2de38"
+    },
+    {
+     "from": "1997-05-16",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2464,1997-05-16,1997-09-16:B0wtY-I86D0BsjzaxR-Godc7pY8/",
+     "sha256": "4cef4a4f27bec52824aae0c46fc249208946e020a6bdf2dce4841138e0f57d8b"
+    },
+    {
+     "from": "1997-09-17",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2467,1997-09-17,1998-05-07:VQmArWEW1OKXw_JVFeXaauAdzls/",
+     "sha256": "a4c085916a6d61de2f3be643acc66311f7773785caadcf1f01ebedc638258822"
+    },
+    {
+     "from": "1998-05-08",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2468,1998-05-08,1999-06-15:MFgTOGimfgnvoBcSweIgrXp3c4U/",
+     "sha256": "2414d59862cbc9441978ad0f58031c60267f0e9f4eddce1083f4aa1d758ba3f7"
+    },
+    {
+     "from": "1999-06-16",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2469,1999-06-16,2000-03-16:qXBlxMhlzwuCh5-IvMSUfMftxIA/",
+     "sha256": "6a21ab25132ad1dcb86e1285b90d0ff3d16e9e8e89eb85bbf7bc03e3ee301e1f"
+    },
+    {
+     "from": "2000-03-17",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2470,2000-03-17,2000-08-16:hg3H7HZWQ7yC8iXYBF2iNeKBxwQ/",
+     "sha256": "1f4028a16b8ab5fa13a66e5e1642de60a164c5b2997c87f7f848d20245959d30"
+    },
+    {
+     "from": "2000-08-17",
+     "units": 200,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2471,2000-08-17,2000-09-10:gt3POlYer1v5xRn8cl4qiEgNC-E/",
+     "sha256": "9e6fd0731b8d19b8c5ce4b9860b88877fc816deee307b49e1277bbfc0fc8c680"
+    },
+    {
+     "from": "2000-09-11",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2472,2000-09-11,2001-09-18:6SfwR_evQpWsEV3OF0PPlV9hHI4/",
+     "sha256": "2f2eac5cbc09b64dc447f97dc73746984ececcab868d4caaba909b7ebb9d3300"
+    },
+    {
+     "from": "2001-09-19",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2473,2001-09-19,2002-04-07:wV0xP5Fe4KqEwiqh6m3d9Cc9yU8/",
+     "sha256": "f3bb61586e3bf0fea64fa9f9de6d40be9862c7c6bf75f9c552d6d25fa40934af"
+    },
+    {
+     "from": "2002-04-08",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2474,2002-04-08,2003-06-01:TVYQe72h249aInsvk_kdiY_GiMY/",
+     "sha256": "ccc0ed66b0b0944a813425fdbc3844d1d28ad36f4a4421ab75b98c172695f353"
+    },
+    {
+     "from": "2003-06-02",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2475,2003-06-02,2004-04-06:zevk0Lz1qks1vxFpXFOSrnZRqdk/",
+     "sha256": "1ce91d1c428929f30539ece42cb5d8394bcdf3fddb338e7736436a5c25a0fbc5"
+    },
+    {
+     "from": "2004-04-07",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2775,2004-04-07,2005-08-31:267xcFbanrzanwiyFyEpTZT4Fio/",
+     "sha256": "46cb88c9ea675d3786e1a59584dc733443cc5e76a0f97420cf8025d5b7ada480"
+    },
+    {
+     "from": "2005-09-01",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2776,2005-09-01,2005-09-15:tCpYIiJeGh_fAm8JxQSoVQV0ivc/",
+     "sha256": "01d113575fee9d6601e32459310599960cba4552d05217c07d7ad0e74a7f3a84"
+    },
+    {
+     "from": "2005-09-01",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2782,2005-09-01,2005-09-15:AZ8te3g-PMyh_l8JU3ZLs52Dqo4/",
+     "sha256": "9a63c4822e77d827bc63def73049903f802e44c1f8863111762c4b15601e626f"
+    },
+    {
+     "from": "2005-09-16",
+     "units": 201,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2783,2005-09-16,2005-10-02:kBVcE8wNZSPBaELSL-c3OQNE1MU/",
+     "sha256": "71ff58ea8db416c62fe3ae5ff18aa899b8116995541ec79cd3fe3b45868f7164"
+    },
+    {
+     "from": "2005-10-03",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2785,2005-10-03,2005-12-04:XCommZgBoPBCKcJQdwviyl6pj9E/",
+     "sha256": "44d0983fa8af573482b7f7eced77ebf2a3dc816214840428f654a8582673a5a0"
+    },
+    {
+     "from": "2005-12-05",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2786,2005-12-05,2006-02-22:38bbORwMJ5N_8C-CZz_YAKFHB-s/",
+     "sha256": "e7b719491798e30b56f1b3954498db2a1ce8257501e65456e7c7cc0e5e5f0839"
+    },
+    {
+     "from": "2006-02-23",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2787,2006-02-23,2006-03-22:h_eWHQsND0dsXPLZdi7G-hG-vVM/",
+     "sha256": "82d305de01744d454058c2aa1b5793bb86ec684a39aea71f52b857b864169e1b"
+    },
+    {
+     "from": "2006-03-23",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2788,2006-03-23,2006-05-09:L_ErYpLvRf3FpCtJekMVQOR8Xvs/",
+     "sha256": "5a846d1336373bd62cdc09ccd94fd2010a02ef299fb0da1b2f52c454951adf1d"
+    },
+    {
+     "from": "2006-05-10",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2789,2006-05-10,2006-06-25:IcqZgGO3HgTCiK_6lydmizZWk1o/",
+     "sha256": "c5ae6a38423e3f62a659731547de4ff4bb8878c7cbd520952b3bb5d5c5b0d449"
+    },
+    {
+     "from": "2006-06-26",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2790,2006-06-26,2008-06-18:JUnQ9KI1ltOQ25grtx0hlVrVsJs/",
+     "sha256": "19a66f2f44a2bfc7d6e421db9f5a49b9692c1796c5bb5a49b1ed24a6e94ecc87"
+    },
+    {
+     "from": "2008-06-19",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2791,2008-06-19,2009-08-03:SQJ0VHYqFWEuM1VKv3A9FEtY_1c/",
+     "sha256": "7c8c36c2724f7fb3622055bc86eadf9d94ed9e5e7a32131a8114e29f63a1f139"
+    },
+    {
+     "from": "2009-08-04",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2794,2009-08-04,2010-02-03:sDs0oDSOYDzonMDycdH2wjbJVQI/",
+     "sha256": "c752767f98bd961664699a6f5e9f09a804ab468507907a5b561b29b0de49dbb3"
+    },
+    {
+     "from": "2010-02-04",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2795,2010-02-04,2012-05-14:f5YhxsNfwmjA8_DEUSRdGaC_uqM/",
+     "sha256": "298a50536dac58f582185a6dd77147db3f5a7cefe82978aebb46c0d3af7cc03c"
+    },
+    {
+     "from": "2012-05-15",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2796,2012-05-15,2012-10-22:SRH8CYcijBli9PXuUErpMTU3QQU/",
+     "sha256": "44c8db3f51c9656a532e6d85354e9c91f58071601fff685c3a765a677b652059"
+    },
+    {
+     "from": "2012-10-23",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2797,2012-10-23,2013-08-18:CwWDZWiTtgRtao5H4SjzIGU-hfw/",
+     "sha256": "814540c0c793fc2e420e3bae0be552c79013fd1241e1492bf9e28a83bbf0e22d"
+    },
+    {
+     "from": "2013-08-19",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2798,2013-08-19,2013-11-18:oFNwpwTNCHSm4r4BidBLMmRq0tM/",
+     "sha256": "bf412c1309029333c4b6b288db163361f1dd6d986fe5663dc89d75cff95d57a0"
+    },
+    {
+     "from": "2013-11-19",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2799,2013-11-19,2014-03-10:HXkZ9wPQKg8gvZGBga7w-p-9xks/",
+     "sha256": "bef4b6b6860104aec605362da09e5d4442863480708713c8d2783438a5433164"
+    },
+    {
+     "from": "2014-03-11",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2800,2014-03-11,2014-03-24:CR_eLut8TeZ156YUnUaDFs_bk80/",
+     "sha256": "63ba1736126d3d1c5b6b917e44919d31d6cd28a08b0727cb2063babd50de5227"
+    },
+    {
+     "from": "2014-03-11",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2803,2014-03-11,2014-03-24:4IrIlwKs808hO_4eGVCVMrBfDmQ/",
+     "sha256": "f3f78c2880be00df8106bc7c56f92f6f0287a4814fbb50b095deaa7931d98eaf"
+    },
+    {
+     "from": "2014-03-25",
+     "units": 202,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2804,2014-03-25,2015-06-01:B0BRE5I1G4d_ummKsGdZhgVqGD0/",
+     "sha256": "9452f9cb27d99d675e10955d282e6617c22fbd3bd1ee74e61071718234cbdc23"
+    },
+    {
+     "from": "2015-06-02",
+     "units": 203,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2807,2015-06-02,2016-02-14:W8us2VZ9bMw96NJ_zAKPDWbqAIg/",
+     "sha256": "83c1a1b63accdb02cc7a03de74e422577fe5b1db0dc5c76545c7e7c07f8715f4"
+    },
+    {
+     "from": "2016-02-15",
+     "units": 203,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2809,2016-02-15,2016-08-01:cwaB1kXOJv1urQem1651I5UMG94/",
+     "sha256": "d80b578f896924d85b01d598159d4d13019db296bd004e580fda97c00a55ab6e"
+    },
+    {
+     "from": "2016-08-02",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2810,2016-08-02,2018-02-05:Bz9vgedoWvUhxe9AQle2UxMbizU/",
+     "sha256": "fe1f0df4e9d1001af58c89002ab7a0d9abed4d4471f1b4671b0faf1b7dc20934"
+    },
+    {
+     "from": "2018-02-06",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2811,2018-02-06,2018-05-02:hB5yNSJbReXZfedmGPYQF5ttCTk/",
+     "sha256": "391b25ac8bca14cefab8fe223889dbcc5c05072b5c1d2045c84c53ecfee2b0b6"
+    },
+    {
+     "from": "2018-05-03",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2812,2018-05-03,2018-06-11:jKRhTaq6jZ_bhdI8dxSVEWWFlTU/",
+     "sha256": "327180a64488145e20fee515f107653e9579028e15acdfc8072278c31d15855c"
+    },
+    {
+     "from": "2018-06-12",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2813,2018-06-12,2022-05-16:A86bFL1AZASy2SZFn_pO0dxUcOE/",
+     "sha256": "030d7be0d6fd5eb191023c9d7f8eacb955fad1b3a6e1d716cbc94ab47a48dbc5"
+    },
+    {
+     "from": "2022-05-17",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2816,2022-05-17,2023-02-23:Lejpmsd7_cMNgPg9EFNvnwgznkM/",
+     "sha256": "491b79bfe42f3c3f9e54ef3e6ac3e5c44899493cb79ded0409679276a69da6a1"
+    },
+    {
+     "from": "2023-02-24",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2817,2023-02-24,2023-04-03:ng51P_xCHw_FworcT-MeXIE2u50/",
+     "sha256": "0ce2979cfd144bd7964f640732688c4992f6528e792f96a5b8036e31cddfd574"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2818,2023-04-04,2023-05-01:jeoyR_XfThPSV6bFtWWKpF1cTt4/",
+     "sha256": "747e401dc83794605e812c9d4983b38d6ce77826b07273391adfc859572b89b4"
+    },
+    {
+     "from": "2023-05-02",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2819,2023-05-02,2023-07-02:o8fSjCmGgF0E9V16rmkhpx1l7Hs/",
+     "sha256": "03b728a70493a9c5fa46a79bef53db3b9f02fd78eeb06864ac387931516887df"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2820,2023-07-03,2023-10-01:2VCdanDH5j31D9Gwms7IHyCINkM/",
+     "sha256": "a62225e24d8a7b431f6abd1467327c56071e091083c7a6fb88fe0aeed9940ca0"
+    },
+    {
+     "from": "2023-10-02",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2821,2023-10-02,2023-10-08:iKPDs0NgI7Ndy38mcnM3nX66D5o/",
+     "sha256": "497ca3e0cc2fe72096f795f52cbec026a25a10333818e635eaf59be8d8a9abf7"
+    },
+    {
+     "from": "2023-10-09",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2822,2023-10-09,2023-12-18:Bgnmr7mNb7njnLW0lBNaHOVsvkc/",
+     "sha256": "4f0c9026944d7dd3916f2b029009dc6fecfff0bf8e4ca1f171fe6ce009c46b65"
+    },
+    {
+     "from": "2023-12-19",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2823,2023-12-19,2024-03-31:dMbdLs7n0qFirib2hheudG0yHKg/",
+     "sha256": "da9ea1584e204bec23a124a8fdfdbafd342963a1324f8575af63acae4992a5e3"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2824,2024-04-01,2025-11-03:gt14wvq5rlRjV1D1MRBLwEaEKmQ/",
+     "sha256": "0462e3b04ca39a85fd1fb6929c9c1a5c024fd733ba1e360f2991d5780760c513"
+    },
+    {
+     "from": "2025-11-04",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2825,2025-11-04,2025-11-17:TOFRRWnogfDBN4EPN-ji8Pg4WrE/",
+     "sha256": "05b41bb84268055abe19e6a62e6ffcc51b5bd6df583d9d3a7f52df4c5044a85e"
+    },
+    {
+     "from": "2025-11-18",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2826,2025-11-18,2026-03-02:suh_FoamkJnYcIkJrjLqbsQ-3P8/",
+     "sha256": "edd9ce7fd2a566b7d4eed8b27eff5d8b9261f59b17158ec1a7c9831e0295c850"
+    },
+    {
+     "from": "2026-03-03",
+     "units": 204,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2827,2026-03-03,2026-07-05:-wWmnAarYqcRgQxxmCCYyc0L-w8/",
+     "sha256": "fcb74d3593493937d6f1808a22a3fc42afa5e0043e4031f9db3e645c3b68ac06"
+    },
+    {
+     "from": "2026-07-06",
+     "units": 207,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/ta/1532/text/vigencia/2828,2026-07-06,2026-08-02:epFK_YcxFvxsdDFJOpAfwOGtkAM/",
+     "sha256": "a75d4ccb8598b67225feeaab9b9c06c8db8e28ca6c781db86f158ce330de3c01"
+    },
+    {
+     "from": "2026-08-03",
+     "units": 207,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2306",
+     "sha256": "2ae0f6bd2221f265107863ceb049caedf54026cecdc471d47cdaa176a86457b2"
+    }
+   ]
+  }
+ ]
+}
