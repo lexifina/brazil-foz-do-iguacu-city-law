@@ -1,12 +1,14 @@
 # How this repository was made (Foz do Iguaçu)
 
-This file is written by the build on 2026-11-04, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Câmara Municipal de Foz do Iguaçu, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.fozdoiguacu.pr.leg.br/norma/2306> | 2026-11-04 | Text: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Foz do Iguaçu, sapl.fozdoiguacu.pr.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
+| Câmara Municipal de Foz do Iguaçu, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.fozdoiguacu.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.fozdoiguacu.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Foz do Iguaçu, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.fozdoiguacu.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.fozdoiguacu.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -15,20 +17,94 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
 | `lei-organica` | Lei Orgânica do Município de Foz do Iguaçu | 62 | 1990-04-06 to 2026-08-03 |
+| `lei-2026-05762` | Lei nº 5.762, de 16 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lei-2026-05761` | Lei nº 5.761, de 16 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lei-2026-05760` | Lei nº 5.760, de 16 de outubro de 2026 | 1 | 2026-10-19 to 2026-10-19 |
+| `lei-2026-05758` | Lei nº 5.758, de 1 de outubro de 2026 | 1 | 2026-10-02 to 2026-10-02 |
+| `lc-2026-00467` | Lei Complementar nº 467, de 1 de outubro de 2026 | 1 | 2026-10-05 to 2026-10-05 |
+| `lei-2026-05757` | Lei nº 5.757, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `lei-2026-05756` | Lei nº 5.756, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `lei-2026-05755` | Lei nº 5.755, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `lei-2026-05754` | Lei nº 5.754, de 30 de setembro de 2026 | 1 | 2026-10-01 to 2026-10-01 |
+| `lei-2026-05753` | Lei nº 5.753, de 25 de setembro de 2026 | 1 | 2026-09-28 to 2026-09-28 |
+| `lei-2026-05752` | Lei nº 5.752, de 25 de setembro de 2026 | 1 | 2026-09-28 to 2026-09-28 |
+| `lei-2026-05751` | Lei nº 5.751, de 25 de setembro de 2026 | 1 | 2026-09-29 to 2026-09-29 |
+| `lei-2026-05750` | Lei nº 5.750, de 25 de setembro de 2026 | 1 | 2026-09-29 to 2026-09-29 |
+| `lei-2026-05749` | Lei nº 5.749, de 15 de setembro de 2026 | 1 | 2026-09-21 to 2026-09-21 |
+| `lei-2026-05747` | Lei nº 5.747, de 11 de setembro de 2026 | 1 | 2026-09-18 to 2026-09-18 |
+| `lei-2026-05745` | Lei nº 5.745, de 11 de setembro de 2026 | 1 | 2026-09-14 to 2026-09-14 |
+| `lei-2026-05742` | Lei nº 5.742, de 9 de setembro de 2026 | 1 | 2026-09-10 to 2026-09-10 |
+| `lei-2026-05741` | Lei nº 5.741, de 8 de setembro de 2026 | 1 | 2026-09-08 to 2026-09-08 |
+| `lei-2026-05740` | Lei nº 5.740, de 27 de agosto de 2026 | 1 | 2026-08-28 to 2026-08-28 |
+| `lei-2026-05739` | Lei nº 5.739, de 26 de agosto de 2026 | 1 | 2026-08-26 to 2026-08-26 |
+| `lc-2026-00466` | Lei Complementar nº 466, de 26 de agosto de 2026 | 1 | 2026-08-26 to 2026-08-26 |
+| `lei-2026-05738` | Lei nº 5.738, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `lei-2026-05737` | Lei nº 5.737, de 25 de agosto de 2026 | 1 | 2026-08-25 to 2026-08-25 |
+| `lei-2026-05735` | Lei nº 5.735, de 12 de agosto de 2026 | 1 | 2026-08-12 to 2026-08-12 |
+| `lei-2026-05734` | Lei nº 5.734, de 7 de agosto de 2026 | 1 | 2026-08-07 to 2026-08-07 |
+| `lei-2026-05732` | Lei nº 5.732, de 5 de agosto de 2026 | 1 | 2026-08-06 to 2026-08-06 |
+| `lei-2026-05731` | Lei nº 5.731, de 5 de agosto de 2026 | 1 | 2026-08-06 to 2026-08-06 |
+| `lei-2026-05730` | Lei nº 5.730, de 4 de agosto de 2026 | 1 | 2026-08-05 to 2026-08-05 |
+| `lei-2026-05729` | Lei nº 5.729, de 4 de agosto de 2026 | 1 | 2026-08-05 to 2026-08-05 |
+| `lei-2026-05728` | Lei nº 5.728, de 4 de agosto de 2026 | 1 | 2026-08-06 to 2026-08-06 |
+| `lei-2026-05727` | Lei nº 5.727, de 30 de julho de 2026 | 1 | 2026-08-03 to 2026-08-03 |
+| `lei-2026-05726` | Lei nº 5.726, de 30 de julho de 2026 | 1 | 2026-08-03 to 2026-08-03 |
+| `lei-2026-05725` | Lei nº 5.725, de 30 de julho de 2026 | 1 | 2026-08-03 to 2026-08-03 |
+| `lei-2026-05723` | Lei nº 5.723, de 24 de julho de 2026 | 1 | 2026-07-24 to 2026-07-24 |
+| `lei-2026-05722` | Lei nº 5.722, de 22 de julho de 2026 | 1 | 2026-07-23 to 2026-07-23 |
+| `lei-2026-05721` | Lei nº 5.721, de 17 de julho de 2026 | 1 | 2026-07-21 to 2026-07-21 |
+| `lei-2026-05719` | Lei nº 5.719, de 17 de julho de 2026 | 1 | 2026-07-17 to 2026-07-17 |
+| `lei-2026-05718` | Lei nº 5.718, de 3 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `lei-2026-05717` | Lei nº 5.717, de 3 de julho de 2026 | 1 | 2026-07-06 to 2026-07-06 |
+| `lei-2026-05716` | Lei nº 5.716, de 3 de julho de 2026 | 1 | 2026-07-03 to 2026-07-03 |
+| `lei-2026-05715` | Lei nº 5.715, de 30 de junho de 2026 | 1 | 2026-07-01 to 2026-07-01 |
+| `lei-2026-05714` | Lei nº 5.714, de 26 de junho de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-05713` | Lei nº 5.713, de 26 de junho de 2026 | 1 | 2026-06-30 to 2026-06-30 |
+| `lei-2026-05712` | Lei nº 5.712, de 22 de junho de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-05711` | Lei nº 5.711, de 18 de junho de 2026 | 1 | 2026-06-19 to 2026-06-19 |
+| `lei-2026-05710` | Lei nº 5.710, de 17 de junho de 2026 | 1 | 2026-06-17 to 2026-06-17 |
+| `lei-2026-05709` | Lei nº 5.709, de 9 de junho de 2026 | 1 | 2026-06-09 to 2026-06-09 |
+| `lei-2026-05707` | Lei nº 5.707, de 2 de junho de 2026 | 1 | 2026-06-02 to 2026-06-02 |
+| `lei-2026-05706` | Lei nº 5.706, de 2 de junho de 2026 | 1 | 2026-06-02 to 2026-06-02 |
+| `lei-2026-05705` | Lei nº 5.705, de 27 de maio de 2026 | 1 | 2026-05-28 to 2026-05-28 |
+| `lei-2026-05704` | Lei nº 5.704, de 27 de maio de 2026 | 1 | 2026-05-28 to 2026-05-28 |
+| `lc-2026-00462` | Lei Complementar nº 462, de 27 de maio de 2026 | 1 | 2026-05-28 to 2026-05-28 |
+| `lei-2026-05703` | Lei nº 5.703, de 26 de maio de 2026 | 1 | 2026-05-26 to 2026-05-26 |
+| `lei-2026-05702` | Lei nº 5.702, de 14 de maio de 2026 | 1 | 2026-05-14 to 2026-05-14 |
+| `lei-2026-05701` | Lei nº 5.701, de 13 de maio de 2026 | 1 | 2026-05-13 to 2026-05-13 |
+| `lei-2026-05700` | Lei nº 5.700, de 11 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-05699` | Lei nº 5.699, de 11 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lc-2026-00461` | Lei Complementar nº 461, de 11 de maio de 2026 | 1 | 2026-05-12 to 2026-05-12 |
+| `lei-2026-05698` | Lei nº 5.698, de 8 de maio de 2026 | 1 | 2026-05-11 to 2026-05-11 |
+| `lei-2026-05697` | Lei nº 5.697, de 7 de maio de 2026 | 1 | 2026-05-08 to 2026-05-08 |
+| `lei-2026-05696` | Lei nº 5.696, de 6 de maio de 2026 | 1 | 2026-05-06 to 2026-05-06 |
+| `lei-2026-05695` | Lei nº 5.695, de 5 de maio de 2026 | 1 | 2026-05-06 to 2026-05-06 |
+| `lei-2026-05694` | Lei nº 5.694, de 4 de maio de 2026 | 1 | 2026-05-07 to 2026-05-07 |
+| `lei-2026-05693` | Lei nº 5.693, de 4 de maio de 2026 | 1 | 2026-05-05 to 2026-05-05 |
+| `lei-2026-05691` | Lei nº 5.691, de 28 de abril de 2026 | 1 | 2026-04-30 to 2026-04-30 |
+| `lei-2026-05690` | Lei nº 5.690, de 24 de abril de 2026 | 1 | 2026-04-27 to 2026-04-27 |
+| `lei-2026-05689` | Lei nº 5.689, de 24 de abril de 2026 | 1 | 2026-04-27 to 2026-04-27 |
+| `lc-2026-00460` | Lei Complementar nº 460, de 24 de abril de 2026 | 1 | 2026-04-27 to 2026-04-27 |
+| `lei-2026-05688` | Lei nº 5.688, de 23 de abril de 2026 | 1 | 2026-04-23 to 2026-04-23 |
+| `lei-2026-05687` | Lei nº 5.687, de 17 de abril de 2026 | 1 | 2026-04-22 to 2026-04-22 |
+| `lei-2026-05686` | Lei nº 5.686, de 9 de abril de 2026 | 1 | 2026-04-10 to 2026-04-10 |
+| `lei-2026-05684` | Lei nº 5.684, de 6 de abril de 2026 | 1 | 2026-04-06 to 2026-04-06 |
+| `lei-2026-05680` | Lei nº 5.680, de 31 de março de 2026 | 1 | 2026-04-01 to 2026-04-01 |
+| `lei-2026-05675` | Lei nº 5.675, de 24 de março de 2026 | 1 | 2026-03-27 to 2026-03-27 |
 
-The build made 60 commits:
+The build made 134 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1 | first version of an act |
+| 75 | first version of an act |
 | 59 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-04.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 62 laws in the record.
-- 120 tags.
+- 136 laws in the record.
+- 268 tags.
 
 ## Dates
 
@@ -40,7 +116,7 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7f1ab634bba890c80d38ab8fb7cd9e48d5816680ca843f91b11575d61612c308` (590203 bytes).
+- Corpus: sha256 `e1e68e26c7df5255f9ce7c4360e74eaa172e9eb26b709d97687bea699dc110b1` (1082224 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -56,6 +132,12 @@ No second build of this corpus has been compared yet.
 - When the text SAPL shows as in force now (the norma page, with its "Vigência a partir de" day and "Dada por" act) starts after the last view, it is the last version. Where SAPL starts a period without naming an amending act, the units that changed are left uncredited and committed as publisher commits, not guessed.
 - Each provision is one line: its label ("Art. 1º.", "§ 1º", "XV –") followed by its text; table rows are one line each, cells separated by " | ". Notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), provisions it marks as superseded, the amending acts own blocks it shows inside the text and the amendment notes typed into the text ("(Redação dada pela Emenda ...)", "(Incluído pela ...)") are left out.
 - One file per Art.; headings stand above the first article under them; the "Ato das Disposições Orgânicas Transitórias", numbered from 1 again, is adt-*. "000-titulo" holds the preamble.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -67,3 +149,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the SAPL pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
