@@ -1416,6 +1416,300 @@
      "sha256": "65f1d6f55a3baadb389f63898d33d79262ce1074849b9663d7e4ad72a5d631ac"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-05671",
+   "short": "Lei 5671/2026",
+   "title": "Lei nº 5.671, de 19 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3726",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3726/5671.pdf",
+     "sha256": "f8ccaf2502d40ff84b2d4cfe6e0281dae7128b20e388bdd4c9711f1539af41e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05669",
+   "short": "Lei 5669/2026",
+   "title": "Lei nº 5.669, de 12 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3623",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3623/5669_-_promulgada.pdf",
+     "sha256": "e94c2ca018bfcbbd4900490a3c6d6bbeeddbfca273f4126c220731defcc61b86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05668",
+   "short": "Lei 5668/2026",
+   "title": "Lei nº 5.668, de 12 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3622",
+   "versions": [
+    {
+     "from": "2026-03-13",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3622/5668_-_promulgada.pdf",
+     "sha256": "41d287ed3158b8e2fdffbd00de13c4cd1a541a5cd730ff3a5d92ed440841c3ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05664",
+   "short": "Lei 5664/2026",
+   "title": "Lei nº 5.664, de 9 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3615",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3615/5664.pdf",
+     "sha256": "c284cd6ea2461a48f412c90e0b9d50913e66c567bda4769c6d20028fe3a0311f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05660",
+   "short": "Lei 5660/2026",
+   "title": "Lei nº 5.660, de 9 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3609",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3609/lei_ordinaria-5660-2026.pdf",
+     "sha256": "eb704c019508efd337160dc381f3f3e713650a017f5a8b3b2e60f946ad12cf71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05658",
+   "short": "Lei 5658/2026",
+   "title": "Lei nº 5.658, de 3 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3612",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3612/5658.pdf",
+     "sha256": "ae785532b2add746a1757c801b2d76c4f181b5b1cb9bbb8299f3acc2bf36ac8d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05657",
+   "short": "Lei 5657/2026",
+   "title": "Lei nº 5.657, de 3 de março de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3611",
+   "versions": [
+    {
+     "from": "2026-03-03",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3611/5657.pdf",
+     "sha256": "fb1e4cc6366a8dda2d91b3f7ae0b123cd421b061ae13fae2428e5c4d3d95dbbf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05655",
+   "short": "Lei 5655/2026",
+   "title": "Lei nº 5.655, de 18 de fevereiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3581",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3581/5655.pdf",
+     "sha256": "c74a88fd8c35f7383ad692e31e866007ea5270d65b130e0fb2f7918abc05377d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05653",
+   "short": "Lei 5653/2026",
+   "title": "Lei nº 5.653, de 26 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3561",
+   "versions": [
+    {
+     "from": "2026-01-26",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3561/5653_-_promulgada.pdf",
+     "sha256": "36e26cc0458fcafd3a758b357fd42877a3ce5c6d878cf3070d9c5c45e54386ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05652",
+   "short": "Lei 5652/2026",
+   "title": "Lei nº 5.652, de 22 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3559",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3559/5652_-_promulgada.pdf",
+     "sha256": "645d4d5596d595c27ba5a1f634c8dbb18728704ae459a3041130fe93e4186d2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05648",
+   "short": "Lei 5648/2026",
+   "title": "Lei nº 5.648, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3556",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3556/5648.pdf",
+     "sha256": "7d21bb0b06b791831f292969dcf46c1ab028722762fdcdea309118a65e3ae03a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05647",
+   "short": "Lei 5647/2026",
+   "title": "Lei nº 5.647, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3544",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3544/5647.pdf",
+     "sha256": "76209189eab819c4c1d27f8a2e18a48b67b5c3c6ddce3352293c215c739c7f27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05646",
+   "short": "Lei 5646/2026",
+   "title": "Lei nº 5.646, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3555",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3555/5646.pdf",
+     "sha256": "50f5b0d28367a5e072909fa27aa589ea4952778533d4ec4dc804826ca1b7a09b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05645",
+   "short": "Lei 5645/2026",
+   "title": "Lei nº 5.645, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3554",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3554/5645.pdf",
+     "sha256": "6a8f51199620d8299b575c4e1ced56c981e68e424558dd378199441f9bb11d30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05644",
+   "short": "Lei 5644/2026",
+   "title": "Lei nº 5.644, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3543",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3543/5644.pdf",
+     "sha256": "23e2727bc35306a25d21168223ef58801273a30ebc6359110353e7ef0107d424"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05643",
+   "short": "Lei 5643/2026",
+   "title": "Lei nº 5.643, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3542",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3542/5643.pdf",
+     "sha256": "13ba89cfc90ea2f02c9562be830fd98c952ecde6dfd220f943cc87d74d6d63ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05642",
+   "short": "Lei 5642/2026",
+   "title": "Lei nº 5.642, de 14 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3541",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3541/5642.pdf",
+     "sha256": "2b4f5573ddb2e10747c30038f5644944cc33face95ad1fb1fd884a3a9d10fc3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05640",
+   "short": "Lei 5640/2026",
+   "title": "Lei nº 5.640, de 13 de janeiro de 2026",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3537",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2026/3537/5640.pdf",
+     "sha256": "25ef2418ed913225c6f99b81f75f703ec1f16cb916408e85116130d1d0ef15d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05634",
+   "short": "Lei 5634/2025",
+   "title": "Lei nº 5.634, de 15 de dezembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3511",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3511/5634.pdf",
+     "sha256": "0e3c0529b96ad1ca5fc43d68e22a4e974e45c8a92dab1266ee5867002c80886e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05631",
+   "short": "Lei 5631/2025",
+   "title": "Lei nº 5.631, de 15 de dezembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3525",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3525/5631.pdf",
+     "sha256": "f821182defbd4fd28ef7d375ec7343fb046173ad0033d0241d7e5fd299463787"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05628",
+   "short": "Lei 5628/2025",
+   "title": "Lei nº 5.628, de 15 de dezembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3528",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3528/5628.pdf",
+     "sha256": "bce90eb57d67b14442f7bd20c5fb3e93de7d1e3b14414057ba5df57aa6e697de"
+    }
+   ]
   }
  ]
 }

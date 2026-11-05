@@ -9,6 +9,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Câmara Municipal de Foz do Iguaçu, SAPL: Texto Articulado of the Lei Orgânica, one view per period of vigência | <https://sapl.fozdoiguacu.pr.leg.br/norma/2306> | 2026-11-04 | Text: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), Lei Orgânica do Município de Foz do Iguaçu, sapl.fozdoiguacu.pr.leg.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Município is authoritative. |
 | Câmara Municipal de Foz do Iguaçu, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.fozdoiguacu.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.fozdoiguacu.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 | Câmara Municipal de Foz do Iguaçu, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.fozdoiguacu.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.fozdoiguacu.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
+| Câmara Municipal de Foz do Iguaçu, SAPL: records of the municipal laws and their PDFs (newest first) | <https://sapl.fozdoiguacu.pr.leg.br/norma/pesquisar> | 2026-11-05 | Texts: Câmara Municipal de Foz do Iguaçu, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.fozdoiguacu.pr.leg.br; SAPL: "Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -91,20 +92,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-05684` | Lei nº 5.684, de 6 de abril de 2026 | 1 | 2026-04-06 to 2026-04-06 |
 | `lei-2026-05680` | Lei nº 5.680, de 31 de março de 2026 | 1 | 2026-04-01 to 2026-04-01 |
 | `lei-2026-05675` | Lei nº 5.675, de 24 de março de 2026 | 1 | 2026-03-27 to 2026-03-27 |
+| `lei-2026-05671` | Lei nº 5.671, de 19 de março de 2026 | 1 | 2026-03-20 to 2026-03-20 |
+| `lei-2026-05669` | Lei nº 5.669, de 12 de março de 2026 | 1 | 2026-03-13 to 2026-03-13 |
+| `lei-2026-05668` | Lei nº 5.668, de 12 de março de 2026 | 1 | 2026-03-13 to 2026-03-13 |
+| `lei-2026-05664` | Lei nº 5.664, de 9 de março de 2026 | 1 | 2026-03-09 to 2026-03-09 |
+| `lei-2026-05660` | Lei nº 5.660, de 9 de março de 2026 | 1 | 2026-03-09 to 2026-03-09 |
+| `lei-2026-05658` | Lei nº 5.658, de 3 de março de 2026 | 1 | 2026-03-03 to 2026-03-03 |
+| `lei-2026-05657` | Lei nº 5.657, de 3 de março de 2026 | 1 | 2026-03-03 to 2026-03-03 |
+| `lei-2026-05655` | Lei nº 5.655, de 18 de fevereiro de 2026 | 1 | 2026-02-23 to 2026-02-23 |
+| `lei-2026-05653` | Lei nº 5.653, de 26 de janeiro de 2026 | 1 | 2026-01-26 to 2026-01-26 |
+| `lei-2026-05652` | Lei nº 5.652, de 22 de janeiro de 2026 | 1 | 2026-01-22 to 2026-01-22 |
+| `lei-2026-05648` | Lei nº 5.648, de 14 de janeiro de 2026 | 1 | 2026-01-19 to 2026-01-19 |
+| `lei-2026-05647` | Lei nº 5.647, de 14 de janeiro de 2026 | 1 | 2026-01-14 to 2026-01-14 |
+| `lei-2026-05646` | Lei nº 5.646, de 14 de janeiro de 2026 | 1 | 2026-01-19 to 2026-01-19 |
+| `lei-2026-05645` | Lei nº 5.645, de 14 de janeiro de 2026 | 1 | 2026-01-19 to 2026-01-19 |
+| `lei-2026-05644` | Lei nº 5.644, de 14 de janeiro de 2026 | 1 | 2026-01-14 to 2026-01-14 |
+| `lei-2026-05643` | Lei nº 5.643, de 14 de janeiro de 2026 | 1 | 2026-01-14 to 2026-01-14 |
+| `lei-2026-05642` | Lei nº 5.642, de 14 de janeiro de 2026 | 1 | 2026-01-14 to 2026-01-14 |
+| `lei-2026-05640` | Lei nº 5.640, de 13 de janeiro de 2026 | 1 | 2026-01-13 to 2026-01-13 |
+| `lei-2025-05634` | Lei nº 5.634, de 15 de dezembro de 2025 | 1 | 2025-12-15 to 2025-12-15 |
+| `lei-2025-05631` | Lei nº 5.631, de 15 de dezembro de 2025 | 1 | 2025-12-15 to 2025-12-15 |
+| `lei-2025-05628` | Lei nº 5.628, de 15 de dezembro de 2025 | 1 | 2025-12-15 to 2025-12-15 |
 
-The build made 134 commits:
+The build made 155 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 75 | first version of an act |
+| 96 | first version of an act |
 | 59 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 136 laws in the record.
-- 268 tags.
+- 157 laws in the record.
+- 310 tags.
 
 ## Dates
 
@@ -116,7 +138,7 @@ When a law gives no date of its own, the default rule applies: The Lei Orgânica
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e1e68e26c7df5255f9ce7c4360e74eaa172e9eb26b709d97687bea699dc110b1` (1082224 bytes).
+- Corpus: sha256 `bae2babf473cf82332a8ed9081de38a8138dbea7e6f8f9ffdca938f573a3e94d` (1192970 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -138,6 +160,9 @@ No second build of this corpus has been compared yet.
 - Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
 - Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
 - The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
+- Each municipal law ("Lei" and "Lei Complementar") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.
+- Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).
+- The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in ".", ";" or ":". One file per Art.; "000-titulo" holds what comes before the first article.
 
 ## What AI did and did not do
 
@@ -149,5 +174,6 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the SAPL pages.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL.
