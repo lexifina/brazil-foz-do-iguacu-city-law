@@ -6904,6 +6904,412 @@
      "sha256": "1851d307f1b0d3d44cb82f846a01fb31a44f3d5c5f9828d4347b23a38b229e70"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05154",
+   "short": "Lei 5154/2022",
+   "title": "Lei nº 5.154, de 13 de setembro de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1332",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 17,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1332/5154.pdf",
+     "sha256": "a70532aa2888183e29a632c552511e5ef14ba4f3c0d7dcd510f914b7668b3010"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05153",
+   "short": "Lei 5153/2022",
+   "title": "Lei nº 5.153, de 8 de setembro de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1331",
+   "versions": [
+    {
+     "from": "2022-09-09",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1331/5153.pdf",
+     "sha256": "e8d47a9214a94de27902fbbebdf7ab8f434075fc5ce87661de6c20f5998020ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05151",
+   "short": "Lei 5151/2022",
+   "title": "Lei nº 5.151, de 24 de agosto de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1330",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 11,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1330/5151.pdf",
+     "sha256": "2887caa365c5a6efd70399f7b5725ea810ba7069a2c6851247e569776ddbe02e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05150",
+   "short": "Lei 5150/2022",
+   "title": "Lei nº 5.150, de 24 de agosto de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1329",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1329/5150.pdf",
+     "sha256": "0b3cf5cbc39ec82ae108ac56eef3591566e0894af9b25a07c199a96e449d7cca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05149",
+   "short": "Lei 5149/2022",
+   "title": "Lei nº 5.149, de 24 de agosto de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1328",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 20,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1328/5149.pdf",
+     "sha256": "ccfb57829d186fabab0ecdfa9bcab77d11b18e81216e3e3ea4819207f37522d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00378",
+   "short": "LC 378/2022",
+   "title": "Lei Complementar nº 378, de 24 de agosto de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1318",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1318/378.pdf",
+     "sha256": "bbf62a08e93726dda4d0722c2abf568e12211e644f90dcd11ef6e313b4cc15c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05147",
+   "short": "Lei 5147/2022",
+   "title": "Lei nº 5.147, de 18 de agosto de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1326",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1326/5147.pdf",
+     "sha256": "8e03f36b7209ff462c92a93b7438f338a6b39be38fe4132ec71910ff59ed1a00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05146",
+   "short": "Lei 5146/2022",
+   "title": "Lei nº 5.146, de 18 de agosto de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1325",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1325/5146.pdf",
+     "sha256": "8a2e14ae4acac333d0caf15dec59ea03576396293285d3ec9fbca8393e6ab2e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05140",
+   "short": "Lei 5140/2022",
+   "title": "Lei nº 5.140, de 15 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1307",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1307/5140.pdf",
+     "sha256": "80b611b3428eba51086eada7a0d12554b994e21dc49e950d36fbb390aabe95f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05139",
+   "short": "Lei 5139/2022",
+   "title": "Lei nº 5.139, de 15 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1306",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1306/5139.pdf",
+     "sha256": "a952200eb623bed4eac1fc0bcaeeb2b4fbb4eff2f94dc9f871d7d20c0b874105"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05136",
+   "short": "Lei 5136/2022",
+   "title": "Lei nº 5.136, de 12 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1303",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1303/5136.pdf",
+     "sha256": "8dedc4c89104210eed97a9653a5ec69fe38c0d5b93309cf7b69351336e1ca44d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05135",
+   "short": "Lei 5135/2022",
+   "title": "Lei nº 5.135, de 12 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1302",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1302/5135.pdf",
+     "sha256": "969802cdd253a222ddd18aea3a30e77e00567cb42016d910af5234355a803feb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05132",
+   "short": "Lei 5132/2022",
+   "title": "Lei nº 5.132, de 7 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1310",
+   "versions": [
+    {
+     "from": "2022-07-08",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1310/5132_2.pdf",
+     "sha256": "b0aec8ea8c9770d6780f4800c303a8d63eed21365a010c8e8da5431c0bac5cd5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05131",
+   "short": "Lei 5131/2022",
+   "title": "Lei nº 5.131, de 7 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1300",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 12,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1300/5131.pdf",
+     "sha256": "73bc87dd3d9e89c5e77a5214b169d95591acbe991b36bab35880c072df6ce4b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05130",
+   "short": "Lei 5130/2022",
+   "title": "Lei nº 5.130, de 6 de julho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1309",
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1309/5130.pdf",
+     "sha256": "6412c8fa7d52e10bb20ea1cbdd274a9710af853ae06fff9b8add6611fb54cc23"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05129",
+   "short": "Lei 5129/2022",
+   "title": "Lei nº 5.129, de 30 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1299",
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1299/5129.pdf",
+     "sha256": "c313f2837adede4fdcec1c4e71149dae5f576c7a5f4377e1523c31607adfbd6b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05128",
+   "short": "Lei 5128/2022",
+   "title": "Lei nº 5.128, de 30 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1298",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1298/5128.pdf",
+     "sha256": "fda7feebb9aeb3df320e1ec9db30528d5a080722a13badb8328a73d4bcbf94d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05127",
+   "short": "Lei 5127/2022",
+   "title": "Lei nº 5.127, de 30 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1297",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1297/5127.pdf",
+     "sha256": "0421eea615edcd7064616213c97ab495b8fd2f4cd0bbe0a803daffa6e0164220"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05126",
+   "short": "Lei 5126/2022",
+   "title": "Lei nº 5.126, de 28 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1296",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1296/5126.pdf",
+     "sha256": "ce9f51ee2199453a60accdace7cac65ced199906871f82c2d6ab67a003b093fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05123",
+   "short": "Lei 5123/2022",
+   "title": "Lei nº 5.123, de 20 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1293",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1293/5123.pdf",
+     "sha256": "06a0a5b3f9b97bfc4d0b3777abd7d4981f43e63176fa40f58b3d5c6bd42e639a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05122",
+   "short": "Lei 5122/2022",
+   "title": "Lei nº 5.122, de 20 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1286",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1286/5122.pdf",
+     "sha256": "d475c10406379e9ace2532008a2abd48b236a10c6c7a46c803ea64cc9c09be7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05118",
+   "short": "Lei 5118/2022",
+   "title": "Lei nº 5.118, de 7 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1283",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1283/5118.pdf",
+     "sha256": "af8ef38c6ddf8d571c9d1ddf85d948522a655f7d0d2d00bc891ce66d99d0ce9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05117",
+   "short": "Lei 5117/2022",
+   "title": "Lei nº 5.117, de 6 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1282",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 8,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1282/5117-_veto_parcial.pdf",
+     "sha256": "8d9d6d12c4240202adcb8ae8368f4ec7f0835eecf68b786389e0ad3ae52c1f41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05116",
+   "short": "Lei 5116/2022",
+   "title": "Lei nº 5.116, de 2 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1279",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1279/5116.pdf",
+     "sha256": "522a9f9acd34161fbb64ecf38b2ee2eed0df15494fa5f20e3de7b853de0783d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05115",
+   "short": "Lei 5115/2022",
+   "title": "Lei nº 5.115, de 2 de junho de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1278",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1278/5115.pdf",
+     "sha256": "93a3dad76bc8c258afccbcb8956324bcf359aaf74d261fcaedc0332e398bd402"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05113",
+   "short": "Lei 5113/2022",
+   "title": "Lei nº 5.113, de 27 de maio de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1277",
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1277/5113.pdf",
+     "sha256": "bafc2a52f07750bf356ad7ca559e22e7b0f835bdedb0f3869d8f79725758aae4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05112",
+   "short": "Lei 5112/2022",
+   "title": "Lei nº 5.112, de 24 de maio de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1276",
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1276/5112.pdf",
+     "sha256": "dc5f45a7da746366d827b39f21ece63d7fac6fd9d6fe37c2fb03a57371cab7e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05111",
+   "short": "Lei 5111/2022",
+   "title": "Lei nº 5.111, de 20 de maio de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1275",
+   "versions": [
+    {
+     "from": "2022-05-23",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1275/5111.pdf",
+     "sha256": "9dec5a9a510f96e3d21a4bac6fe8c8f014b5ca86ae71dfa4b478b587ad8f21a6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00374",
+   "short": "LC 374/2022",
+   "title": "Lei Complementar nº 374, de 19 de maio de 2022",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1273",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 21,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2022/1273/374.pdf",
+     "sha256": "5fe45aa705ff62e2d56bb294fcbd9865245dd23e363394a1c39735cc9df6e210"
+    }
+   ]
   }
  ]
 }
