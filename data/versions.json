@@ -8304,6 +8304,342 @@
      "sha256": "5a12f88247119b5f52a5aecf84950d3d9866c3e51e06143e08f2c84d1384e3b9"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-05031",
+   "short": "Lei 5031/2021",
+   "title": "Lei nº 5.031, de 8 de outubro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1160",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1160/5031.pdf",
+     "sha256": "2a35930ce4b35830241012582a354ccd4cb61bf0964fb86e479a1e94005498f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05030",
+   "short": "Lei 5030/2021",
+   "title": "Lei nº 5.030, de 8 de outubro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1155",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1155/5030.pdf",
+     "sha256": "fea43c335d6d8342417c284a3e841d3d1b126c1599c61d74113ff1229b22d1e8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00352",
+   "short": "LC 352/2021",
+   "title": "Lei Complementar nº 352, de 8 de outubro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1159",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1159/352.pdf",
+     "sha256": "8ec12daf2b7b14ec39c7be5528a951da006d27a807c635ac90f300935ea1e984"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05029",
+   "short": "Lei 5029/2021",
+   "title": "Lei nº 5.029, de 6 de outubro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1154",
+   "versions": [
+    {
+     "from": "2021-10-08",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1154/5029.pdf",
+     "sha256": "c0da3c29fb0839b517594fc04e6906affe4250722624c86a5b708100b1a0d4db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05028",
+   "short": "Lei 5028/2021",
+   "title": "Lei nº 5.028, de 1 de outubro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1153",
+   "versions": [
+    {
+     "from": "2021-10-04",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1153/5028.pdf",
+     "sha256": "d54c73d60233397a40c75ac48236d1f801f087e629654fa5a2b8a67d1c903285"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05027",
+   "short": "Lei 5027/2021",
+   "title": "Lei nº 5.027, de 27 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1150",
+   "versions": [
+    {
+     "from": "2021-09-28",
+     "units": 29,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1150/5027.pdf",
+     "sha256": "184795d67dda136d51f1b82d9de3240394c8a58812b26cec604e8861ffe6ed82"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05022",
+   "short": "Lei 5022/2021",
+   "title": "Lei nº 5.022, de 23 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1145",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1145/5022.pdf",
+     "sha256": "0f61b3eaaf6c308ccaef25b6efe8c50a2bdb7021a9ee2777134f1b2e3be0c9fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05021",
+   "short": "Lei 5021/2021",
+   "title": "Lei nº 5.021, de 23 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1144",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 12,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1144/5021.pdf",
+     "sha256": "eff8b985f88f14bdff3a42f31e19afb4f6dd68def7cf50b22cbd1f5d1295c7c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05020",
+   "short": "Lei 5020/2021",
+   "title": "Lei nº 5.020, de 20 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1143",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1143/5020.pdf",
+     "sha256": "7bbe7df536ee6b25739874bddf19e416a86ebde0c543aed6ced9769602d38af5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05019",
+   "short": "Lei 5019/2021",
+   "title": "Lei nº 5.019, de 20 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1142",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1142/5019.pdf",
+     "sha256": "04fe7f7cab3aaec7811727b37f0a2e049652996114841f8673288c71ebe76bdf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05017",
+   "short": "Lei 5017/2021",
+   "title": "Lei nº 5.017, de 20 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1140",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1140/5017.pdf",
+     "sha256": "7c215a07fb780fb7176b402eac7c92321434284f3d84632d2e983464e85c29a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05016",
+   "short": "Lei 5016/2021",
+   "title": "Lei nº 5.016, de 20 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1139",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 12,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1139/5016.pdf",
+     "sha256": "1a03d5febe52c1d124842e910dab2eff9420332ce4aaaa0532accc2a85a80101"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05015",
+   "short": "Lei 5015/2021",
+   "title": "Lei nº 5.015, de 20 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1138",
+   "versions": [
+    {
+     "from": "2021-09-22",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1138/5015.pdf",
+     "sha256": "ac2d40dead68b65b094395e864784806f2a8e348f4f26d33755f3adf9a523991"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05012",
+   "short": "Lei 5012/2021",
+   "title": "Lei nº 5.012, de 15 de setembro de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1135",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1135/5012.pdf",
+     "sha256": "2727f74a2e2947b9f2d091b8d1ca3b5606aa8a4fa714b49032536b10593173c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05010",
+   "short": "Lei 5010/2021",
+   "title": "Lei nº 5.010, de 24 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1133",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1133/5010.pdf",
+     "sha256": "0352f503ecce1ff092560cb582a009c997e8bec7a38812a4f717e991df802379"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05009",
+   "short": "Lei 5009/2021",
+   "title": "Lei nº 5.009, de 24 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1132",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1132/5009.pdf",
+     "sha256": "d232539c52fbf3632c02248a97fe7f92eca6590eb8b37b9a49ec6c7c48a1d8a0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-00351",
+   "short": "LC 351/2021",
+   "title": "Lei Complementar nº 351, de 18 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1158",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1158/351.pdf",
+     "sha256": "5f1d482c6623c360321c20c0b10fd092d29e1b1362cff244dbc46cedd75cbf21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05008",
+   "short": "Lei 5008/2021",
+   "title": "Lei nº 5.008, de 10 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1130",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 8,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1130/5008.pdf",
+     "sha256": "de7876ed0c4520dc4306c24f894d30b35f99311c1e77028382a83675fffc1837"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05007",
+   "short": "Lei 5007/2021",
+   "title": "Lei nº 5.007, de 9 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1129",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1129/5007.pdf",
+     "sha256": "699d626613fd9c75b6ba3927067c1df598eb3cd36c9c3d38eaf8bd481b92a825"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05006",
+   "short": "Lei 5006/2021",
+   "title": "Lei nº 5.006, de 9 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1128",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1128/5006.pdf",
+     "sha256": "b3ccacfa974323cc2a54062ca03fee9d2a7b33a81d23b7778beb39b6e79b3203"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05005",
+   "short": "Lei 5005/2021",
+   "title": "Lei nº 5.005, de 9 de agosto de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1127",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1127/5005.pdf",
+     "sha256": "7a801b409eae641a6cc4a97615c36eefc33bea3b10b6b9fc035036e5b05d53ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05004",
+   "short": "Lei 5004/2021",
+   "title": "Lei nº 5.004, de 30 de julho de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1125",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1125/5004.pdf",
+     "sha256": "4c1859b7528abd58d80592e411b49d8158fff2e059bc4bbed5ab228ba0d6dc21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05003",
+   "short": "Lei 5003/2021",
+   "title": "Lei nº 5.003, de 28 de julho de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1124",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1124/5003.pdf",
+     "sha256": "4d31b3e44fb8259662ad53b33feddf6eadfdd05c4366bee2f1ce5d431d4fc4bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05001",
+   "short": "Lei 5001/2021",
+   "title": "Lei nº 5.001, de 22 de julho de 2021",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1118",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2021/1118/5001.pdf",
+     "sha256": "1db842f9c7369082e587d3b8a9f174d075a193ff2ed9efbb6fa29efdff60a629"
+    }
+   ]
   }
  ]
 }
