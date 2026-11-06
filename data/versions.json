@@ -1990,6 +1990,384 @@
      "sha256": "328053fcf01b8a54ae9a4962ee67987b71796799d558670aae5fb9b2d9f32bfe"
     }
    ]
+  },
+  {
+   "slug": "lc-2025-00445",
+   "short": "LC 445/2025",
+   "title": "Lei Complementar nº 445, de 12 de setembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3197",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3197/lei_complementar-445_assinada.pdf",
+     "sha256": "fc27bf8e01e724f902082e3d7d78f4bccf4433a971047405fa1c4de8cda149cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05583",
+   "short": "Lei 5583/2025",
+   "title": "Lei nº 5.583, de 9 de setembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3198",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3198/lei_ordinaria_-_5583_-_assinada.pdf",
+     "sha256": "56972909f35061de7de67f914aebd679f4f8f14db90000106cf2dc18aa1eb18f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00444",
+   "short": "LC 444/2025",
+   "title": "Lei Complementar nº 444, de 9 de setembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3192",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3192/444_-_promulgada.pdf",
+     "sha256": "a513988f93ee46e9f8e75161cb55bef8769e135b39cc0b138b93e661692040e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05579",
+   "short": "Lei 5579/2025",
+   "title": "Lei nº 5.579, de 4 de setembro de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3188",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3188/5579.pdf",
+     "sha256": "2baa48bd1ab347763e237973f5fb1e466d1ea7c24597e63a8ab5fb19eba56277"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05576",
+   "short": "Lei 5576/2025",
+   "title": "Lei nº 5.576, de 27 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3182",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3182/5576.pdf",
+     "sha256": "8b06a0dc15b11a421a2fdfd336ff68f36549edf6b89f654e52ddae701545012f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05575",
+   "short": "Lei 5575/2025",
+   "title": "Lei nº 5.575, de 27 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3181",
+   "versions": [
+    {
+     "from": "2025-08-27",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3181/5575.pdf",
+     "sha256": "dfad43ec7477f4a24cf901b79fe85c4b26f0c43f6388a60608b66b365f90e996"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05574",
+   "short": "Lei 5574/2025",
+   "title": "Lei nº 5.574, de 25 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3180",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3180/lei_ordinaria-5574-2025_do_5292.pdf",
+     "sha256": "3d9f0e7971cc2df81f7ef0187cc4047db6dfd9992d8cacd5f937b535493874af"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05572",
+   "short": "Lei 5572/2025",
+   "title": "Lei nº 5.572, de 18 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3178",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3178/5572.pdf",
+     "sha256": "804fe9d2f9d675b2542f3b9b0b275afe5f95c5871a03108289abf850634f5c02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05571",
+   "short": "Lei 5571/2025",
+   "title": "Lei nº 5.571, de 18 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3177",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3177/5571.pdf",
+     "sha256": "f4fa5f8403a843e5844a255d225f918b092fabf29312dfb4eb99f6f58dabb075"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05570",
+   "short": "Lei 5570/2025",
+   "title": "Lei nº 5.570, de 18 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3176",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3176/5570.pdf",
+     "sha256": "b5fd8789950294b4b99266d2488b4784a8339a4c8fb8cea497a6286fb6156836"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05567",
+   "short": "Lei 5567/2025",
+   "title": "Lei nº 5.567, de 1 de agosto de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3155",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3155/5567.pdf",
+     "sha256": "963fe14df6267d71c5f27ef3c7d6f5777dfc97eba9765589cae116edd923761f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05566",
+   "short": "Lei 5566/2025",
+   "title": "Lei nº 5.566, de 29 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3124",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 8,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3124/5566.pdf",
+     "sha256": "621357f6ae8a7bb703f1b420f206efc3e0fc7bc22b11e359549dd85537b6ecd6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05563",
+   "short": "Lei 5563/2025",
+   "title": "Lei nº 5.563, de 23 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3072",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3072/5563.pdf",
+     "sha256": "2ff7b4396f7de129f76b00576bb692100f3d3b06ddcd0e69d8a90372c9a80193"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05562",
+   "short": "Lei 5562/2025",
+   "title": "Lei nº 5.562, de 23 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/3011",
+   "versions": [
+    {
+     "from": "2025-07-24",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/3011/5562.pdf",
+     "sha256": "c993631cfea9b654e75e59752fb3f4cfc6f03846fe2afa1fc1d0691305fb35b0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05557",
+   "short": "Lei 5557/2025",
+   "title": "Lei nº 5.557, de 14 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2834",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2834/5557.pdf",
+     "sha256": "d1ea43719793286960fb6f17209950b0793e813fd4e3827db592509543c751b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05553",
+   "short": "Lei 5553/2025",
+   "title": "Lei nº 5.553, de 7 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2830",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2830/5553.pdf",
+     "sha256": "ac7f2d32d291dc3325b1cd63e6a09ae1b344e01506dac98c4c58e3a0180f4982"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05552",
+   "short": "Lei 5552/2025",
+   "title": "Lei nº 5.552, de 7 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2829",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2829/5552.pdf",
+     "sha256": "34ba06e1c4f8dd35dc951acd67074946c79c47674748958c3081a5740eef8716"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05551",
+   "short": "Lei 5551/2025",
+   "title": "Lei nº 5.551, de 1 de julho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2826",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2826/5551.pdf",
+     "sha256": "8b798b98ad549073b6831dea01a3cf7484e0f84d82eaee1fee63f2eb0ef58c1e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05549",
+   "short": "Lei 5549/2025",
+   "title": "Lei nº 5.549, de 18 de junho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2782",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2782/5549.pdf",
+     "sha256": "c122b1eef321876938e798c1d1217641f1c6915b3d18fc72c97ae975c7500235"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05548",
+   "short": "Lei 5548/2025",
+   "title": "Lei nº 5.548, de 16 de junho de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2781",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2781/5548.pdf",
+     "sha256": "7a0a8ef90c1c90b69317e390d168baab26d2530edcbd80af4716c807c109234e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05546",
+   "short": "Lei 5546/2025",
+   "title": "Lei nº 5.546, de 26 de maio de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2600",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2600/5546.pdf",
+     "sha256": "7a000555d42854d89069631f49b91b1a95a60926739d8f0cbb552e987aff4c9e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05545",
+   "short": "Lei 5545/2025",
+   "title": "Lei nº 5.545, de 26 de maio de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2554",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2554/5545.pdf",
+     "sha256": "04ad2bb25d21d74a99a8cbb1f0ef4d12e21c6f7687a8aaa25baf9b19439e6c7a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05542",
+   "short": "Lei 5542/2025",
+   "title": "Lei nº 5.542, de 7 de maio de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2534",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2534/5542.pdf",
+     "sha256": "a40f599b9ac1f0b3b3d2d538d72973de96acdf9e52813cf57488fce81062a04a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05541",
+   "short": "Lei 5541/2025",
+   "title": "Lei nº 5.541, de 23 de abril de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2476",
+   "versions": [
+    {
+     "from": "2025-04-25",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2476/5541.pdf",
+     "sha256": "0cb3638adcf80097291c35f2892a7c828953e8c6158d8f22e219a6304735393d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05540",
+   "short": "Lei 5540/2025",
+   "title": "Lei nº 5.540, de 16 de abril de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2457",
+   "versions": [
+    {
+     "from": "2025-04-23",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2457/5540.pdf",
+     "sha256": "ee98efbca4c895ab1718b5610ff33b93d03d13350948bad1a082d2cd1818977d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05539",
+   "short": "Lei 5539/2025",
+   "title": "Lei nº 5.539, de 16 de abril de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2437",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2437/5539.pdf",
+     "sha256": "ef81142dcd171f2a07321310bde6cea65d8dea5023afecdd76f1db71179cea83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05538",
+   "short": "Lei 5538/2025",
+   "title": "Lei nº 5.538, de 15 de abril de 2025",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/2430",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2025/2430/5538.pdf",
+     "sha256": "14fa40bb47cc6d63b07ab2c2bc10dafe36d4104a7e3bf52175af52329cfee6fb"
+    }
+   ]
   }
  ]
 }
