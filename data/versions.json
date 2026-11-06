@@ -3698,6 +3698,580 @@
      "sha256": "ee733789b62be08caa5ad0f0938fe9c233424c81d97108977fd5daed0bfebc48"
     }
    ]
+  },
+  {
+   "slug": "lei-2024-05403",
+   "short": "Lei 5403/2024",
+   "title": "Lei nº 5.403, de 29 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1681",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1681/5403.pdf",
+     "sha256": "1664e026ed5d1b6a0e4bff56d8843273ebe73dc8eb3c86b05960f9136ce5432a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05402",
+   "short": "Lei 5402/2024",
+   "title": "Lei nº 5.402, de 26 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1680",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1680/5402_-_promulgada.pdf",
+     "sha256": "b8278441fcc6013923df210ec8e346cc2a39c1c9a768cc7036e053537d978084"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00427",
+   "short": "LC 427/2024",
+   "title": "Lei Complementar nº 427, de 22 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1678",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1678/427.pdf",
+     "sha256": "de4f121cc183724936c3c6af6e97a94abc0d8653c15596a3fcf9eca67796de62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05400",
+   "short": "Lei 5400/2024",
+   "title": "Lei nº 5.400, de 19 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1677",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1677/5400.pdf",
+     "sha256": "73539cd49e4443c2460ad0b3976add0303b22e331262a94fcdf48c37859229de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05399",
+   "short": "Lei 5399/2024",
+   "title": "Lei nº 5.399, de 19 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1676",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1676/5399.pdf",
+     "sha256": "e25fbac74d1e1654b167fa68ee3671ec6eb140c60b6bdb55f657973a81b93913"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05397",
+   "short": "Lei 5397/2024",
+   "title": "Lei nº 5.397, de 5 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1670",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1670/5397.pdf",
+     "sha256": "06009da2f19095589df289fe41eb2a9cd32c20505129859fdd7b9af1fc13a80e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05396",
+   "short": "Lei 5396/2024",
+   "title": "Lei nº 5.396, de 5 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1646",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1646/5396_-_promulgada.pdf",
+     "sha256": "afde39fcdab72a036613a87480a337224bb66ff79fd4565fd864b8c7c6bb8268"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05395",
+   "short": "Lei 5395/2024",
+   "title": "Lei nº 5.395, de 4 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1669",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 23,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1669/5395.pdf",
+     "sha256": "479afeb566705125d929dcd951f00a28598caed0e39f6bb4744bc6560a2dde86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05394",
+   "short": "Lei 5394/2024",
+   "title": "Lei nº 5.394, de 4 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1668",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1668/5394.pdf",
+     "sha256": "814e91e173a147d0fc5458827f5875e12a9c94fa5278fe19ab74aa3f84625a00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05393",
+   "short": "Lei 5393/2024",
+   "title": "Lei nº 5.393, de 3 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1644",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1644/5393_-_promulgada.pdf",
+     "sha256": "707a0e2f2c4f65ce7a1834837792859a4907efe990b5e3390128983a55e1dee9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05392",
+   "short": "Lei 5392/2024",
+   "title": "Lei nº 5.392, de 3 de abril de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1667",
+   "versions": [
+    {
+     "from": "2024-04-04",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1667/5392.pdf",
+     "sha256": "23e24c19608c2b67bba7165fad4c18ae61b3c35c27d0447d1dada18b23c2bfcb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05391",
+   "short": "Lei 5391/2024",
+   "title": "Lei nº 5.391, de 26 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1666",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1666/5391.pdf",
+     "sha256": "44220714c58c10845866bad0bc75c3f1538f90e3928ec31237d3ead302697e21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05390",
+   "short": "Lei 5390/2024",
+   "title": "Lei nº 5.390, de 26 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1665",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1665/5390.pdf",
+     "sha256": "968521435779d11f87c03583be8b7290c5c937b8119ec6db9d538ae2f4b967d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05389",
+   "short": "Lei 5389/2024",
+   "title": "Lei nº 5.389, de 26 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1663",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1663/5389.pdf",
+     "sha256": "8467a6dc4ac16d0995729beb9982845183d0fb0c1b970b20000fd05bd65d8c07"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05388",
+   "short": "Lei 5388/2024",
+   "title": "Lei nº 5.388, de 26 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1662",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1662/5388.pdf",
+     "sha256": "aade70fd68385e2b407a4d8c4cdb74cddf027f72f9714540187c9b1f341644cc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05384",
+   "short": "Lei 5384/2024",
+   "title": "Lei nº 5.384, de 21 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1658",
+   "versions": [
+    {
+     "from": "2024-03-25",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1658/5384.pdf",
+     "sha256": "2e227785953eb45a9d0ab0234368bb79548df9f3464af36f13847f967dbf7930"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05383",
+   "short": "Lei 5383/2024",
+   "title": "Lei nº 5.383, de 12 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1657",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 16,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1657/5383.pdf",
+     "sha256": "4107b2b2061a18493943bd3d5b210737bc3a3a68c3b88169cf59c471133dc382"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05382",
+   "short": "Lei 5382/2024",
+   "title": "Lei nº 5.382, de 12 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1656",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1656/5382.pdf",
+     "sha256": "d690bbc5bf2e9c2b5c1d5aa5fdc4376528a743792e9b429a0ec682811c453b44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05381",
+   "short": "Lei 5381/2024",
+   "title": "Lei nº 5.381, de 12 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1655",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1655/5381.pdf",
+     "sha256": "e5fdc6ccca0aac31efeef4b96d6e6be6a5b6ef339c82259abab557b1f7346b99"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00425",
+   "short": "LC 425/2024",
+   "title": "Lei Complementar nº 425, de 12 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1673",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1673/425.pdf",
+     "sha256": "0025915142ac540aecb8e28671ee4cf74dd4266adc4f9eca8a23454f223f9d01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05380",
+   "short": "Lei 5380/2024",
+   "title": "Lei nº 5.380, de 7 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1654",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1654/5380.pdf",
+     "sha256": "f2ac98dec72e099c87be63caf17489cf3192fd4e04375aa54e7fd38605b321cd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00424",
+   "short": "LC 424/2024",
+   "title": "Lei Complementar nº 424, de 4 de março de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1672",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1672/424.pdf",
+     "sha256": "7791bdbe9a459e29cf4641125ac9351dddf02f91e8b5c62de2f479dbc3f03666"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00423",
+   "short": "LC 423/2024",
+   "title": "Lei Complementar nº 423, de 28 de fevereiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1671",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1671/423.pdf",
+     "sha256": "f0dfe5ce0222578d9d6fd2df803f64cc4ffcaf32a247085835cdbb0b6ad314f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05379",
+   "short": "Lei 5379/2024",
+   "title": "Lei nº 5.379, de 23 de fevereiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1633",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1633/5379_-_promulgada.pdf",
+     "sha256": "1ab99d7cfb39f4fc57fd7cebed548401b4700232f9ba5bcc65df91d13c72ee01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05378",
+   "short": "Lei 5378/2024",
+   "title": "Lei nº 5.378, de 23 de fevereiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1632",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1632/5378_-_promulgada.pdf",
+     "sha256": "034794b27331ca5316acaedd8430296e125521d459f9e5ce1b8b023fd1aced44"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00422",
+   "short": "LC 422/2024",
+   "title": "Lei Complementar nº 422, de 23 de fevereiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1634",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1634/422_-_promulgada.pdf",
+     "sha256": "03a91f77b48b5df1aee37f020d0a41613a01d2b19be1bfb63af13326ee2ef33e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05377",
+   "short": "Lei 5377/2024",
+   "title": "Lei nº 5.377, de 1 de fevereiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1641",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1641/5377.pdf",
+     "sha256": "cee7ad8fbbfac8235228bfd3dfedeccd55ba7ea7298edf7a2f47f9a5bde969f5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00421",
+   "short": "LC 421/2024",
+   "title": "Lei Complementar nº 421, de 26 de janeiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1636",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1636/421.pdf",
+     "sha256": "54ac55abd6fea1241d4b2e8be73b5e2acecaf8b718a1f961f711e16e7a8c7f01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05376",
+   "short": "Lei 5376/2024",
+   "title": "Lei nº 5.376, de 23 de janeiro de 2024",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1640",
+   "versions": [
+    {
+     "from": "2024-02-23",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2024/1640/5376.pdf",
+     "sha256": "b02a002536e2d7ad458bba75c7094806a0c45ec6d7790b582ee87936c47e3d22"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05375",
+   "short": "Lei 5375/2023",
+   "title": "Lei nº 5.375, de 29 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1602",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1602/5375.pdf",
+     "sha256": "06a5044f2dff325f74375910b7575757d0b080d96f823af022651c0bc381019c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05374",
+   "short": "Lei 5374/2023",
+   "title": "Lei nº 5.374, de 29 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1601",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 8,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1601/5374.pdf",
+     "sha256": "f86d863d82a2267240899b3357d699ace3621f1dfb79022e464e86fd332ed227"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05373",
+   "short": "Lei 5373/2023",
+   "title": "Lei nº 5.373, de 29 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1600",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 44,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1600/5373.pdf",
+     "sha256": "6dfc0300d237227907c54b88dda02bd2e56b2a0d1debb2cb6a9092d2a81bc2ef"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00420",
+   "short": "LC 420/2023",
+   "title": "Lei Complementar nº 420, de 29 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1536",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1536/420.pdf",
+     "sha256": "c6f5bffa74ec2c3510bd43077097d73926c53a399956d8c44c313b4c7465556a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05372",
+   "short": "Lei 5372/2023",
+   "title": "Lei nº 5.372, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1599",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1599/5372.pdf",
+     "sha256": "2a953350b9e45b408926000ad365346f9d2ee0448756eb745738b25600b3d4ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05371",
+   "short": "Lei 5371/2023",
+   "title": "Lei nº 5.371, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1598",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1598/5371.pdf",
+     "sha256": "de4fdc2021b96a19615723949c3208baba8773225c896bfcb02c718f89246f2b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05370",
+   "short": "Lei 5370/2023",
+   "title": "Lei nº 5.370, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1597",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1597/5370.pdf",
+     "sha256": "ca5b60058a923b8d7323456d0b42b88af6d652d2aa52658a160ed6a61b3b4cad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05369",
+   "short": "Lei 5369/2023",
+   "title": "Lei nº 5.369, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1596",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1596/5369.pdf",
+     "sha256": "ce99e51d1d232494f04d4c3593d604573cc7ae9bd5287d5fd84d21b6cba60739"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05368",
+   "short": "Lei 5368/2023",
+   "title": "Lei nº 5.368, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1595",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1595/5368.pdf",
+     "sha256": "f3468a4c46fb813ac7467b2a2ebcad1887306be25e2600d91e042c2c5ae5b051"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05367",
+   "short": "Lei 5367/2023",
+   "title": "Lei nº 5.367, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1594",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1594/5367.pdf",
+     "sha256": "0bf82b1754c2fe93c282651716af8d468e0a13914bac1541364b5fd1797704ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05365",
+   "short": "Lei 5365/2023",
+   "title": "Lei nº 5.365, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1592",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1592/5365.pdf",
+     "sha256": "56b035ac07c856c0ac08ead0bafa605abe9ac2d98a580afca64899802b344fe0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05364",
+   "short": "Lei 5364/2023",
+   "title": "Lei nº 5.364, de 28 de dezembro de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1591",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 10,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1591/5364.pdf",
+     "sha256": "2c8f556463e3077de7780cd2f86403ccd379e9f3beb3027bbf72f449edaadd41"
+    }
+   ]
   }
  ]
 }
