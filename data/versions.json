@@ -5420,6 +5420,454 @@
      "sha256": "0404b3c39b09fa359fadb074fa6fa25ec5431f050ac39f7eb9b0fb41388dfe04"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-05281",
+   "short": "Lei 5281/2023",
+   "title": "Lei nº 5.281, de 23 de agosto de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1494",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1494/5281.pdf",
+     "sha256": "5a02af2d852c20b1d4ef150d62b48efca28551f3cad7f3f6fa39eb99d2ca6651"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05280",
+   "short": "Lei 5280/2023",
+   "title": "Lei nº 5.280, de 18 de agosto de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1493",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1493/5280.pdf",
+     "sha256": "4b07709ba91d361bd62db6dbfcea77508c3af02197b1c203aed706ad88faab2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05279",
+   "short": "Lei 5279/2023",
+   "title": "Lei nº 5.279, de 18 de agosto de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1492",
+   "versions": [
+    {
+     "from": "2023-08-21",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1492/5279.pdf",
+     "sha256": "92df422ef54916d79d54c226b66711b29940230befb4373688108a320e1d82b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05276",
+   "short": "Lei 5276/2023",
+   "title": "Lei nº 5.276, de 7 de agosto de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1490",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1490/5276.pdf",
+     "sha256": "cfd935b4bdad3a30b39ce31740eb702003546c44db3e34a23550817671d1ed3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05275",
+   "short": "Lei 5275/2023",
+   "title": "Lei nº 5.275, de 3 de agosto de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1489",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 11,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1489/5275.pdf",
+     "sha256": "51f3d5642ec058f3cffbb366fea4fcae683794742614a018808ea39f7b1b8954"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05272",
+   "short": "Lei 5272/2023",
+   "title": "Lei nº 5.272, de 21 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1487",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1487/5272.pdf",
+     "sha256": "b07ed9fdd571af0d8bc0c96d65d1b991087f2829819f0de48e3ed3792af0d926"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05271",
+   "short": "Lei 5271/2023",
+   "title": "Lei nº 5.271, de 21 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1486",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 12,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1486/5271.pdf",
+     "sha256": "db6bd33243194fd7cc27859ad3d1a8aaa5f611662cb1ea842841ee1e0307fd10"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05270",
+   "short": "Lei 5270/2023",
+   "title": "Lei nº 5.270, de 20 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1485",
+   "versions": [
+    {
+     "from": "2023-08-04",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1485/5270.pdf",
+     "sha256": "9ffa12f9ef24c0e5626987dcbe10054d78b99b133473cc53ab221c1e46da68cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05267",
+   "short": "Lei 5267/2023",
+   "title": "Lei nº 5.267, de 14 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1471",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 8,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1471/5267.pdf",
+     "sha256": "6b29b35fa02774890c9e7194a32ff4a1eefa9b09ccdcb11eef57bfad3684274c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05266",
+   "short": "Lei 5266/2023",
+   "title": "Lei nº 5.266, de 13 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1470",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1470/5266.pdf",
+     "sha256": "cf665f2451a3908f3058cd2c030537b1854acf639d9e5a86f4109114bfe6b45c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05265",
+   "short": "Lei 5265/2023",
+   "title": "Lei nº 5.265, de 13 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1469",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1469/5265.pdf",
+     "sha256": "07d34465091f60fd5f490b77ca550ce85a2092851116039a259d99cc8d10f907"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05263",
+   "short": "Lei 5263/2023",
+   "title": "Lei nº 5.263, de 11 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1467",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1467/5263.pdf",
+     "sha256": "57106742768dd6fb55dffca77bf622de75339e235691eab96a0b9d619d30009d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05262",
+   "short": "Lei 5262/2023",
+   "title": "Lei nº 5.262, de 11 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1466",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 20,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1466/5262.pdf",
+     "sha256": "274d76bea0538e2cd2e98e990c9bb88fb225d5406998bcff50ec7ea2fbc72b78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05261",
+   "short": "Lei 5261/2023",
+   "title": "Lei nº 5.261, de 3 de julho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1465",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1465/5261.pdf",
+     "sha256": "460f128a97f0d13d2e91a64e2ccff15c85ac73b8c81762ca37c34f23bd182bd2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05260",
+   "short": "Lei 5260/2023",
+   "title": "Lei nº 5.260, de 30 de junho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1464",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1464/5260.pdf",
+     "sha256": "0b0f5941b1f02df36f34ba9f54e3d0736e67cd096e983f6498240f15666d00f2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00401",
+   "short": "LC 401/2023",
+   "title": "Lei Complementar nº 401, de 30 de junho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1479",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1479/401.pdf",
+     "sha256": "6041f8263e4e61d50609b7cf9ab475bbab6ccdbbacae5b27304ba0fe638aca35"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00400",
+   "short": "LC 400/2023",
+   "title": "Lei Complementar nº 400, de 30 de junho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1478",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1478/400.pdf",
+     "sha256": "68a39a2cdaba94f1f0af739abdc5f17e0f345da176284c1637dd6c4852e96029"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05259",
+   "short": "Lei 5259/2023",
+   "title": "Lei nº 5.259, de 28 de junho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1463",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 5,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1463/5259.pdf",
+     "sha256": "b6519c00c23dc2b6da85a3528cdaeca0f4150da90cde928581fadcf6d72ac2ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05258",
+   "short": "Lei 5258/2023",
+   "title": "Lei nº 5.258, de 21 de junho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1462",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1462/5258.pdf",
+     "sha256": "942e167865752a8d762809ad89aaaadf9d9e7d076ec22d72881f8ee249387f47"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00398",
+   "short": "LC 398/2023",
+   "title": "Lei Complementar nº 398, de 19 de junho de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1476",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 16,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1476/398.pdf",
+     "sha256": "f66c0d2ba2bb0d0b2aed9903d153b0e2c4b0251cf59ab6cfade8e9b9d0ef5646"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05257",
+   "short": "Lei 5257/2023",
+   "title": "Lei nº 5.257, de 22 de maio de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1461",
+   "versions": [
+    {
+     "from": "2023-05-23",
+     "units": 9,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1461/5257.pdf",
+     "sha256": "bf5d5d393a93b557f461bc14424d8e908af97fb88814047be3267425680a3208"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05255",
+   "short": "Lei 5255/2023",
+   "title": "Lei nº 5.255, de 11 de maio de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1459",
+   "versions": [
+    {
+     "from": "2023-05-11",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1459/5255.pdf",
+     "sha256": "11434fdfd44430bb1827c388362c3d7dc253f4bd84aa50ffdf50c685063cfe59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05254",
+   "short": "Lei 5254/2023",
+   "title": "Lei nº 5.254, de 10 de maio de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1458",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1458/5254.pdf",
+     "sha256": "e4adc41305b558a6ae45145502608eb1ce9a8dc2c890bb6efb960d4d0171bf38"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05252",
+   "short": "Lei 5252/2023",
+   "title": "Lei nº 5.252, de 5 de maio de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1446",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 7,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1446/5252.pdf",
+     "sha256": "59cc66d8756af547e102790dc94be656feeef7a2f9738b39f5d9dd3caf2baa3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05251",
+   "short": "Lei 5251/2023",
+   "title": "Lei nº 5.251, de 3 de maio de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1445",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1445/5251.pdf",
+     "sha256": "2b2bbf9f5595aefed82751f1d510c95f9ba58b43ed4a765221a0de0f01839755"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05250",
+   "short": "Lei 5250/2023",
+   "title": "Lei nº 5.250, de 2 de maio de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1444",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 4,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1444/5250.pdf",
+     "sha256": "f1103eba42d9e5265cdfee4fbab90cee474b39030a16477d71ae1fcc6df9a08e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00395",
+   "short": "LC 395/2023",
+   "title": "Lei Complementar nº 395, de 25 de abril de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1449",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1449/395.pdf",
+     "sha256": "0e23f06cfb52798e475dcca931e420ef49ce12ac7c963bb18e8a90db83ff3706"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05247",
+   "short": "Lei 5247/2023",
+   "title": "Lei nº 5.247, de 17 de abril de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1441",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 87,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1441/5247.pdf",
+     "sha256": "076f0a0e4dd3a8ad842a7adfe716a506a1b509e18021e8a79e5061fc711a0138"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05244",
+   "short": "Lei 5244/2023",
+   "title": "Lei nº 5.244, de 12 de abril de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1438",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 6,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1438/5244.pdf",
+     "sha256": "532badf989b97130167cb223887627a2ab11fb64018878dc0f98186f5566a433"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05243",
+   "short": "Lei 5243/2023",
+   "title": "Lei nº 5.243, de 12 de abril de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1437",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1437/5243.pdf",
+     "sha256": "28a09447c3079b2f5d9e1e9c0fabeeac6a0f006a71fdf07f8dbae726b936434c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05242",
+   "short": "Lei 5242/2023",
+   "title": "Lei nº 5.242, de 12 de abril de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1436",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1436/5242.pdf",
+     "sha256": "7252d1224d49c5974214fef4ad2e18b39b6c7be3d60e793d7ee1a31849559ada"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05241",
+   "short": "Lei 5241/2023",
+   "title": "Lei nº 5.241, de 12 de abril de 2023",
+   "url": "https://sapl.fozdoiguacu.pr.leg.br/norma/1435",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 3,
+     "source_url": "https://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/1435/5241.pdf",
+     "sha256": "b562c9c13ac850c2bb99ab68c06e325281b5db077b59ca555d0e628208b837ca"
+    }
+   ]
   }
  ]
 }
